@@ -1,8 +1,8 @@
 **Enzo Carvalho Calligaris aqui :)**
 
-Eu me chamo *Enzo Carvalho Calligaris*, tenho na data atual *(jun/2025)* 19 anos e estou e faço faculdade de Ciência da Computação na [EEP](https://www.eep.br/).
+Eu me chamo *Enzo Carvalho Calligaris*, tenho na data atual *(jun/2025)* 19 anos.
 
-Atualmente fazendo faculdade de Ciência da Computação na [EEP](https://www.eep.br/), Atualmente tenho 19 anos. Curioso sobre programação e estudando Java nas horas vagas.
+Atualmente fazendo faculdade de Ciência da Computação na [EEP](https://www.eep.br/). Curioso sobre programação e estudando Java nas horas vagas.
 
 Neste momento, estou aprimorando meus conceitos de Git e GitHub. Além disso, estou estudando Java, Spring Boot, Maven, POO e bancos de dados como SQL e NoSQL.
 
