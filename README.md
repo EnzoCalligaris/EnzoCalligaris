@@ -1,6 +1,6 @@
 **Enzo Carvalho Calligaris aqui :)**
 
-Eu me chamo *Enzo Carvalho Calligaris*, tenho na data atual *(jun/2025)* 19 anos.
+Eu me chamo *Enzo Carvalho Calligaris*, tenho na data atual *(mai/2026)* 20 anos.
 
 Atualmente fazendo faculdade de Ciência da Computação na [EEP](https://www.eep.br/). Curioso sobre programação e estudando Java nas horas vagas.
 
