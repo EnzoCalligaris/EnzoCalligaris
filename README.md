@@ -1,12 +1,78 @@
-**Enzo Carvalho Calligaris aqui :)**
+# Hi, I'm Enzo 👋
 
-Eu me chamo *Enzo Carvalho Calligaris*, tenho na data atual *(mai/2026)* 20 anos.
+I'm a Computer Science student and Junior Fullstack Developer currently working in technology at Caterpillar.
 
-Atualmente fazendo faculdade de Ciência da Computação na [EEP](https://www.eep.br/). Curioso sobre programação e estudando Java nas horas vagas.
+I enjoy building real-world software solutions and working across frontend, backend, databases, automation and testing.
 
-Neste momento, estou aprimorando meus conceitos de Git e GitHub. Além disso, estou estudando Java, Spring Boot, Maven, POO e bancos de dados como SQL e NoSQL.
+## 🚀 About Me
 
-Abaixo segue algumas formas de me conhecer melhor:
+* 🎓 Computer Science student at EEP
+* 💼 Technology Intern at Caterpillar
+* 💻 Focused on Fullstack and Software Engineering
+* 🌎 English: Advanced / C1
+* 📚 Currently improving my skills in software architecture, backend development and modern web applications
+
+## 🛠️ Technologies
+
+### Languages
+
+Java · TypeScript · JavaScript · Python · SQL · PHP · C
+
+### Frontend
+
+React · Next.js · HTML · CSS · Tailwind CSS
+
+### Backend
+
+Java · Spring Boot · Python · Flask · REST APIs · JPA · Hibernate
+
+### Databases
+
+PostgreSQL · MySQL · SQLite · MongoDB · Supabase
+
+### Testing
+
+JUnit · Mockito · Vitest · Playwright · pgTAP
+
+### Tools
+
+Git · GitHub · Docker · Maven · Postman · Prisma · Supabase · Power BI · Power Automate · Power Apps
+
+## 📌 Featured Projects
+
+### Pulse Training
+
+Full-stack platform for personal trainers and students.
+
+**Technologies:** Next.js, TypeScript, React, PostgreSQL, Supabase, Prisma, Docker, Vitest and Playwright.
+
+Features include authentication, role-based authorization, workout management, scheduling, assessments and progress tracking.
+
+### Método EM
+
+Full-stack platform for nutritionists and patients.
+
+**Technologies:** Next.js, TypeScript, PostgreSQL, Supabase and Docker.
+
+Includes a public website, nutritionist dashboard, patient portal, authentication, patient management, contracts and automated tests.
+
+### Workshop Sales REST API
+
+REST API developed using Java and Spring Boot.
+
+**Technologies:** Java, Spring Boot, PostgreSQL, JPA, Hibernate, Maven and H2.
+
+### Purchase Request Management System
+
+Web application developed to manage purchase requests and approval workflows.
+
+**Technologies:** Python, Flask, JavaScript, HTML, CSS and SQLite.
+
+## 📫 Contact
+
+* LinkedIn: linkedin.com/in/enzo-carvalho-calligaris
+* GitHub: github.com/EnzoCalligaris
+
 
 ### Você me encontra em:
 
