@@ -68,16 +68,7 @@ Web application developed to manage purchase requests and approval workflows.
 
 **Technologies:** Python, Flask, JavaScript, HTML, CSS and SQLite.
 
-## 📫 Contact
-
-* LinkedIn: linkedin.com/in/enzo-carvalho-calligaris
-* GitHub: github.com/EnzoCalligaris
-
-
 ### Você me encontra em:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enzo-carvalho-calligaris/)
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/enzo.carvaalho/)
-
-## GitHub Status
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EnzoCalligaris&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)   
